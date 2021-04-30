@@ -1,2 +1,1 @@
-# curriculo-online
-curriculo-online
+:bulb:Currículo online
